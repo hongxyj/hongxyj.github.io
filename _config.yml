@@ -65,15 +65,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://linlimin.smugmug.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/limin.lin.904"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/_limin.l/?hl=en"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/_limin.l/?hl=en"
 
 defaults:
   # _posts
@@ -113,3 +113,23 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+logo: "/assets/images/logo-88x88.png"
+
+# assign a fallback teaser image used in the “Related Posts”
+teaser: /assets/images/linlimin1000x600-logo.png
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: "dark" # "light" (default), "dark"
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-150238335-1"
+    anonymize_ip: false # default
+
