@@ -114,7 +114,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-logo: "/assets/images/logo-88x88.png"
+logo: "/assets/images/logo88x88.png"
 
 # assign a fallback teaser image used in the “Related Posts”
 teaser: /assets/images/linlimin1000x600-logo.png
@@ -130,6 +130,6 @@ comments:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-150238335-1"
+    tracking_id: "UA-137389404-1"
     anonymize_ip: false # default
 
