@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Limin Lin"
   avatar : "/assets/images/IMG_0435.jpg"
-  bio    : ""
+  bio    : "最美的风景往往都是在不期而遇"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
