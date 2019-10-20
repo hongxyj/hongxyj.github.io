@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Limin Lin"
+  name   : "林子"
   avatar : "/assets/images/IMG_0435.jpg"
   bio    : "最美的风景都是不期而遇"
   links:
