@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
+baseurl: xyj.cloud
 
 # Build settings
 markdown: kramdown
